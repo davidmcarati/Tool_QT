@@ -1,0 +1,13 @@
+{
+"companyName": "TUMO",
+"productName": "QT_Events",
+"dataUrl": "GE.data.unityweb",
+"asmCodeUrl": "GE.asm.code.unityweb",
+"asmMemoryUrl": "GE.asm.memory.unityweb",
+"asmFrameworkUrl": "GE.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
